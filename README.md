@@ -1,1 +1,1 @@
-# This are the notes for CS106L
+# These are notes for CS106L
